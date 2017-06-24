@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LiveUpdates</string>
+    <string name="login_with_google_text">Login with Google</string>
 </resources>
